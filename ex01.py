@@ -22,7 +22,7 @@ if numeroMes >=1 and numeroMes<=12:
   print("outubro")
  elif numeroMes == 11:
   print("novembro")
- elif numeroMes == 12:
+ else:
   print("dezembro")
 else:
  print("Digite de 1 a 12 Por favor!!")
