@@ -24,6 +24,6 @@ elif numeroMes == 11:
 elif numeroMes == 12:
   print("dezembro")
 else:
- print("DIGITE DE 1 A 12 SEU ANIMAL!!")
+ print("Digite de 1 a 12 Por favor!!")
 
 
